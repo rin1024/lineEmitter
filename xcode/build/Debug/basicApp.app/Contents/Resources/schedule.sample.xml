@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<settings>
+    <list>
+        <!--
+        <schedule type="pic" time="16:18" src="~/Documents/contents/test.png"/>
+        <schedule type="mov" time="16:19" src="~/Documents/contents/test.mp4" loop="true"/>
+        <schedule type="seq" time="16:40" src="~/Documents/contents/sequence.xml"/>
+        -->
+    </list>
+</settings>
