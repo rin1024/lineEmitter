@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<setting>
+    
+    <!-- log Settings. -->
+    
+    <!--
+     <log
+     dest = "~/Documents/log.txt"
+     />
+     -->
+    
+    <!-- prepare Settings. -->
+    
+    <prepare
+    frameRate     = "60"
+    windowWidth   = "640"
+    windowHeight  = "480"
+    />
+    
+    <!-- setup Settings. -->
+    
+    <setup>
+        <window
+        fullScreen    = "true"
+        hideCursor    = "false"
+        />
+<!--
+        <audio
+        deviceName = "*"
+        bandSize="128"
+        />
+        <capture
+        width  = "1280"
+        height = "720"
+        deviceName  = "*"
+        cacheLength = "1"
+        />
+        <korg
+        listen = "10000"
+        />
+ -->
+    </setup>
+    
+</setting>
